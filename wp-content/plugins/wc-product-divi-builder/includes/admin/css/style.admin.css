@@ -1,0 +1,99 @@
+#remove_cover_img,
+.red_text{
+	color: #a00
+}
+
+.wp-admin.post-type-product p.et_pb_page_settings.et_pb_page_layout_settings {
+    display: block !important;
+}
+
+li.et_pb_woopro_breadcrumb:before,
+li.et_pb_woopro_title:before,
+li.et_pb_woopro_image:before,
+li.et_pb_woopro_gallery:before,
+li.et_pb_woopro_rating:before,
+li.et_pb_woopro_price:before,
+li.et_pb_woopro_excerpt:before,
+li.et_pb_woopro_add_to_cart:before,
+li.et_pb_woopro_meta:before,
+li.et_pb_woopro_upsells:before,
+li.et_pb_woopro_related_products:before,
+li.et_pb_woopro_description:before,
+li.et_pb_woopro_additional_info:before,
+li.et_pb_woopro_reviews:before,
+li.et_pb_woopro_summary:before,
+li.et_pb_woopro_cover:before,
+li.et_pb_woopro_notices:before,
+li.et_pb_woopro_navigation:before{
+	    font-family: "ETmodules" !important;	
+}
+
+li.et_pb_woopro_breadcrumb:before{
+	content: '\e109' !important
+}
+li.et_pb_woopro_title:before{
+	content: '\e02f' !important
+}
+li.et_pb_woopro_image:before{
+	content: '\e005' !important
+}
+li.et_pb_woopro_gallery:before{
+	content: '\e006' !important
+}
+li.et_pb_woopro_rating:before{
+	content: '\e032' !important
+}
+li.et_pb_woopro_price:before{
+	content: '\e0ed' !important
+}
+li.et_pb_woopro_excerpt:before{
+	content: '\64' !important
+}
+li.et_pb_woopro_add_to_cart:before{
+	content: '\e015' !important
+}
+li.et_pb_woopro_meta:before{
+	content: '\e02b' !important
+}
+li.et_pb_woopro_tabs:before{
+	content: '\51' !important
+}
+li.et_pb_woopro_upsells:before{
+	content: '\e106' !important
+}
+li.et_pb_woopro_related_products:before{
+	content: '\50' !important
+}
+li.et_pb_woopro_description:before{
+	content: '\69' !important
+}
+li.et_pb_woopro_additional_info:before{
+	content: '\66' !important
+}
+li.et_pb_woopro_reviews:before{
+	content: '\77' !important
+}
+li.et_pb_woopro_summary:before{
+	content: '\e105' !important
+}
+li.et_pb_woopro_cover:before{
+	content: '\e0e6' !important
+}
+li.et_pb_woopro_images_slider:before{
+	content: '\4f' !important
+}
+li.et_pb_woopro_notices:before{
+	content: '\e01e' !important
+}
+li.et_pb_woopro_navigation:before{
+	content: '\2b' !important
+}
+
+.wcpb_admin_table ol li{
+	margin-top: 14px;
+}
+
+.wcpb_admin_table .child {
+    margin-top: 20px;
+    margin-left: 30px;
+}
